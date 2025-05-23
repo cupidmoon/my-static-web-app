@@ -13,7 +13,7 @@ const About = () => (
       <ul>
         <li>
           <a href="https://github.com/MicrosoftDocs/mslearn-staticwebapp">
-            Code in GitHub
+            Code in GitHub, really?
           </a>
         </li>
       </ul>
